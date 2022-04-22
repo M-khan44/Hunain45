@@ -1,0 +1,789 @@
+
+a{
+	font-size: 30px;
+}
+#funny{
+	height: 600px;
+	color: white;
+	border-style:outset;
+background-color: black;
+}
+h1{
+	margin-left: 300px;
+	font-size: 100px;
+	align-content: center center;
+	text-shadow:10px 10px 10px red;
+
+}
+.user{
+	margin-left: 1000px;
+	margin-top:180px;
+	color: yellow;
+	font-size: 25px;
+	text-shadow: 20px 20px 5px red;
+
+}
+img{
+	float: right;
+	box-shadow: -10px 20px 10px red;
+}
+
+#smallb{
+
+width: 270px;
+height:500px;
+border-style: dotted;
+ background-image: linear-gradient(black,red );
+}
+
+#bigb{
+width: 1030px;
+height: 4000px;
+border-style: dotted;
+margin-left:290px;
+margin-top:-505px;
+}
+#bigbb{
+	width: 1030px;
+height: 3300px;
+border-style: dotted;
+margin-left:290px;
+margin-top:-505px;
+
+}
+
+
+
+
+
+
+
+.abb{
+	text-decoration-line:none;
+	color: red;
+	border-style:groove;
+	border-color:yellow;
+	border-radius:10px;
+	
+	background-image: linear-gradient(orange, yellow);
+}
+
+#abb1{
+	padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(green, white);
+ 
+}
+#abb2{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px; 
+    background-image: linear-gradient(green, white);
+ 
+}
+#abb3{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+ 	background-image: linear-gradient(green, white);
+ 
+}
+
+
+#abb4{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+	background-image: linear-gradient(green, white);
+ }
+#abb5{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(green, white);
+ 
+}
+#abb6{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+	margin-top: 10px;
+	background-image: linear-gradient(green, white);
+ }
+#abb7{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(green, white);
+ 
+}
+#abb8{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+	margin-top: 10px;
+    background-image: linear-gradient(green, white);
+
+}
+#abb9{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(green, white);
+}
+#abb10{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(green, white);
+
+}
+#abb11{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(green, white);
+ 
+}
+#abb12{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(orange, yellow);
+
+}
+
+
+
+/*for funny sms part*/
+
+
+
+
+
+
+#funny1{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(orange, yellow);
+
+}
+#funny2{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(orange, yellow);
+
+}
+#funny3{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(orange, yellow);
+
+}
+#funny4{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(orange, yellow);
+
+}
+#funny5{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(orange, yellow);
+
+}
+#funny6{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  background-image: linear-gradient(orange, yellow);
+}
+#funny7{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(orange, yellow);
+
+}
+#funny8{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(orange, yellow);
+
+}
+#funny9{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  background-image: linear-gradient(orange, yellow);
+
+}
+#funny10{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  background-image: linear-gradient(orange, yellow);
+
+}
+#funny11{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  background-image: linear-gradient(orange, yellow);
+
+}
+#funny12{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  background-image: linear-gradient(orange, yellow);
+
+}
+#funny13{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  background-image: linear-gradient(orange, yellow);
+
+}
+#funny14{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  background-image: linear-gradient(orange, yellow);
+
+}
+#funny15{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  background-image: linear-gradient(orange, yellow);
+
+}
+#funny16{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  background-image: linear-gradient(orange, yellow);
+
+}
+
+
+
+
+
+
+
+/*  for birthday sms post*/
+
+
+
+
+
+
+
+
+
+#bb1{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  background-image: linear-gradient(orange, yellow ,blue);
+
+}
+#bb2{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  background-image: linear-gradient(orange, yellow ,blue);
+
+}
+#bb3{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  background-image: linear-gradient(orange, yellow ,blue);
+
+}
+#bb4{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  background-image: linear-gradient(orange, yellow ,blue);
+
+}
+#bb5{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  background-image: linear-gradient(orange, yellow,blue);
+
+}
+#bb6{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  background-image: linear-gradient(orange, yellow,blue);
+
+}
+#bb7{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  background-image: linear-gradient(orange, yellow,blue);
+
+}
+#bb8{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  background-image: linear-gradient(orange, yellow,blue);
+
+}
+#bb9{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  background-image: linear-gradient(orange, yellow,blue);
+
+}
+#bb10{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  background-image: linear-gradient(orange, yellow,blue);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#cool1{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  background-image: linear-gradient(orange, yellow,blue);
+
+}
+#cool1{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+
+}
+#cool2{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+
+}
+#cool3{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+
+}
+#cool4{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+
+}
+#cool5{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+
+}
+#cool6{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+
+}
+#cool7{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+
+}
+#cool8{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+
+}
+#cool9{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+
+}
+#cool10{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+
+}
+#cool11{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+
+}
+
+#cool12{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+
+}
+
+
+
+
+
+
+
+
+
+
+#brok1{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+
+}
+#brok2{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+	
+}
+#brok3{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+	
+}
+#brok4{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+	
+}
+#brok5{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+	
+}
+#brok6{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+	
+}
+#brok7{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+	
+}
+#brok8{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+	
+}
+#brok9{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+	
+}
+#brok10{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+	
+}
+#brok11{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(lightcoral,hotpink,purple);
+	
+}
+
+
+
+
+
+
+#mother1{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(IndianRed,Crimson);
+}
+#mother1{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(IndianRed,Crimson);
+	
+}
+#mother2{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(IndianRed,Crimson);
+}
+#mother3{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(IndianRed,Crimson);
+	
+}
+#mother4{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(IndianRed,Crimson);
+	
+}
+#mother5{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(IndianRed,Crimson);
+	
+}
+#mother6{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(IndianRed,Crimson);
+}
+
+#mother7{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-image: linear-gradient(IndianRed,Crimson);
+	
+}
+#mother8{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(IndianRed,Crimson);
+	
+}
+#mother9{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(IndianRed,Crimson);
+	
+}
+#mother10{padding: 50px;
+    border-style:dashed;
+    border-width:1px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+   background-image: linear-gradient(IndianRed,Crimson);
+	
+}
+
+
+
+
+
+
+
+
+
+
